@@ -1,0 +1,1 @@
+Linux was created by Linus Torvalds in 1991. It is based on Unix principles and supports the GNU philosophy of free and open-source software.XY
